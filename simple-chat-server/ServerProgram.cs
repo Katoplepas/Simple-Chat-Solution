@@ -148,6 +148,10 @@ namespace simple_chat_server
                             __userNewChatRoom.broadcastMessage(String.Format("User {0} enter the room {1}",__userState.__nickName, __joinChatRoomName));
                             break;
 
+                        case help.invokeCommand:
+                            ServerSendMessage(__userState, "HELP TEXT> These are all the commands on this solution: /exit, /logout, /changeNick {newNick}, /join {chatRoomName}, /w {RecipientUser} {message} ");
+                            break;
+
                         default:
                             break;
                     }

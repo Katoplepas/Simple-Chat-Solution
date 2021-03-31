@@ -42,6 +42,7 @@
     <Compile Include="Commands\command.cs" />
     <Compile Include="Commands\commandController.cs" />
     <Compile Include="Commands\exitClient.cs" />
+    <Compile Include="Commands\help.cs" />
     <Compile Include="Commands\joinChatRoom.cs" />
     <Compile Include="Commands\logout.cs" />
     <Compile Include="Commands\wispUser.cs" />

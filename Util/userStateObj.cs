@@ -7,7 +7,7 @@ namespace Util
     public class userStateObj
     {
         public Socket __socket = null;
-        public const int __buffersize = 1024;
+        public const int __buffersize = 2048;
         public byte[] __buffer = new byte[__buffersize];
         public string __address = string.Empty;
         public string __nickName = string.Empty;
