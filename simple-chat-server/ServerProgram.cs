@@ -22,41 +22,6 @@ namespace simple_chat_server
         static void Main(string[] args)
         {
 
-
-            var n = 15;
-
-            string lineToPrint = string.Empty;
-            for (int i = 1; i <= n; i++)
-            {
-                bool isMod3 = i % 3 ==0?true:false;
-                bool isMod5 = i % 5 ==0?true:false;
-                lineToPrint = string.Empty;
-                if (isMod3)
-                {
-                    lineToPrint += "Fizz";     
-                }
-
-                if (isMod5)
-                {
-                    lineToPrint += "Buzz";
-                }
-
-                lineToPrint = lineToPrint.Length == 0?i.ToString():lineToPrint;
-
-                Console.WriteLine(lineToPrint);
-            }
-
-
-
-
-
-
-
-
-
-
-
-
             Socket __server = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
             IPEndPoint __ip = new IPEndPoint(IPAddress.Any, 1300);
 
@@ -89,13 +54,17 @@ namespace simple_chat_server
             __userState.__address = __adress;
             Random randomNumber = new Random();
             __userState.__nickName = "newUser" + randomNumber.Next(0, 9999); //TODO adicionar um gerador seguro de nickname
-
+            
+            //lista de todos os clientes do servidor.
             __listClient.Add(__userState);
 
-            __listChatRoom.First().insertUser(__userState);
+            //todo usuario será adicionado a sala principal.
+            chatRoom __mainChatRoom = chatRoomController.GetChatRoomByName(__listChatRoom,"Main");
+            __mainChatRoom.insertUser(__userState);
 
             Console.WriteLine("Client <{0}> connected", __adress);
-            ServerSendBroadcast(String.Format("User {0} connected!",__userState.__nickName));            
+
+            __mainChatRoom.broadcastMessage(String.Format("User {0} connected!", __userState.__nickName));
 
             __alldone.Set();
             __listener.BeginReceive(__userState.__buffer, 0, userStateObj.__buffersize, SocketFlags.None, new AsyncCallback(_recieveMessage), __userState);
@@ -152,7 +121,7 @@ namespace simple_chat_server
 
                                 __alldone.WaitOne(200, false);
                                 var __userChatRoom = chatRoomController.GetUserChatRoom(__listChatRoom, __userState);
-                                __userChatRoom.broadcastMessage(__data);
+                                __userChatRoom.broadcastMessage(__messageToPlot);
                            
                             }
                             break;
@@ -171,6 +140,14 @@ namespace simple_chat_server
                                 ServerSendMessage(__userSender, __messageToSenderUser);
                             }
                             break;
+
+                        case joinChatRoom.invokeCommand:
+                            var __joinChatRoomName = joinChatRoom.getFirstArgument(__messageRecieved, __commandFound);
+                            __listChatRoom = chatRoomController.InsertUserIntoRoom(__listChatRoom, __joinChatRoomName, __userState);
+                            var __userNewChatRoom = chatRoomController.GetUserChatRoom(__listChatRoom, __userState);
+                            __userNewChatRoom.broadcastMessage(String.Format("User {0} enter the room {1}",__userState.__nickName, __joinChatRoomName));
+                            break;
+
                         default:
                             break;
                     }
@@ -204,7 +181,6 @@ namespace simple_chat_server
             {
                 //infornando e retirando o client da lista de Clients ativos.
                 Console.WriteLine("Client <{0}> disconnected", __userState.__address);
-                //__listClient.Remove(__state.__address);
                 __listClient.Remove(__userState);
             }
             catch (Exception __e)
@@ -215,12 +191,12 @@ namespace simple_chat_server
 
         private static void ServerSendMessage(userStateObj __userToSend, string __messageToSend)
         {
+            //este metodo envia mensagens independente das chatRooms, em caso de Wisp por exemplo.
             if (__userToSend != null)
             {
                 __userToSend.__socket.Send(Encoding.UTF8.GetBytes(__messageToSend));
             }
         }
-
 
         private static void  ServerSendBroadcast(string __messageToSend)
         {

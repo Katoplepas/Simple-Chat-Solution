@@ -4,10 +4,6 @@ using System.Net.Sockets;
 
 namespace Util
 {
-    //class userStateObj
-    //{
-    //}
-
     public class userStateObj
     {
         public Socket __socket = null;

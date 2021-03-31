@@ -22,7 +22,7 @@ namespace simple_chat_client
         string __ip = string.Empty;
         int __port = 1200;
         bool __isConneced = false;
-        static List<string> __clientCommands = new List<string>() { "/exit", "#nickChanged", "#join" };
+        static List<string> __clientCommands = new List<string>() { "/exit", "#nickChanged"};
 
         private void btnConnect_Click(object sender, EventArgs e)
         {

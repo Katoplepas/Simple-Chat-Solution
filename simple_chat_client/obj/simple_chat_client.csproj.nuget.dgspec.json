@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\Repositorios GIT\\Simple-Chat-Solution\\Util\\Util.csproj": {
-                "projectPath": "E:\\Repositorios GIT\\Simple-Chat-Solution\\Util\\Util.csproj"
+              "E:\\Repositorios GIT\\simple-chat-server\\Util\\Util.csproj": {
+                "projectPath": "E:\\Repositorios GIT\\simple-chat-server\\Util\\Util.csproj"
               }
             }
           }
@@ -63,16 +63,6 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
-      }
-    },
-    "E:\\Repositorios GIT\\Simple-Chat-Solution\\Util\\Util.csproj": {
-      "restore": {
-        "projectUniqueName": "E:\\Repositorios GIT\\Simple-Chat-Solution\\Util\\Util.csproj",
-        "projectName": "Util",
-        "projectPath": "E:\\Repositorios GIT\\Simple-Chat-Solution\\Util\\Util.csproj"
-      },
-      "frameworks": {
-        "net472": {}
       }
     }
   }
