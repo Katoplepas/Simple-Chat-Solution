@@ -1,0 +1,3 @@
+﻿Comandos Client Side
+
+/exit -> fecha a janela

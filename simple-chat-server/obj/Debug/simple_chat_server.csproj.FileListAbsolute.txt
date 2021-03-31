@@ -1,0 +1,44 @@
+C:\Users\Kevin\source\repos\simple-chat-server\simple-chat-server\bin\Debug\simple-chat-server.exe.config
+C:\Users\Kevin\source\repos\simple-chat-server\simple-chat-server\bin\Debug\simple-chat-server.exe
+C:\Users\Kevin\source\repos\simple-chat-server\simple-chat-server\bin\Debug\simple-chat-server.pdb
+C:\Users\Kevin\source\repos\simple-chat-server\simple-chat-server\bin\Debug\Util.exe
+C:\Users\Kevin\source\repos\simple-chat-server\simple-chat-server\bin\Debug\Util.pdb
+C:\Users\Kevin\source\repos\simple-chat-server\simple-chat-server\bin\Debug\Util.exe.config
+C:\Users\Kevin\source\repos\simple-chat-server\simple-chat-server\obj\Debug\simple_chat_server.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\simple-chat-server\simple-chat-server\obj\Debug\simple_chat_server.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\simple-chat-server\simple-chat-server\obj\Debug\simple_chat_server.csproj.CopyComplete
+C:\Users\Kevin\source\repos\simple-chat-server\simple-chat-server\obj\Debug\simple-chat-server.exe
+C:\Users\Kevin\source\repos\simple-chat-server\simple-chat-server\obj\Debug\simple-chat-server.pdb
+E:\Teste\New folder\simple-chat-server\simple-chat-server\bin\Debug\simple-chat-server.exe.config
+E:\Teste\New folder\simple-chat-server\simple-chat-server\bin\Debug\simple-chat-server.exe
+E:\Teste\New folder\simple-chat-server\simple-chat-server\bin\Debug\simple-chat-server.pdb
+E:\Teste\New folder\simple-chat-server\simple-chat-server\bin\Debug\Util.exe
+E:\Teste\New folder\simple-chat-server\simple-chat-server\bin\Debug\Util.pdb
+E:\Teste\New folder\simple-chat-server\simple-chat-server\bin\Debug\Util.exe.config
+E:\Teste\New folder\simple-chat-server\simple-chat-server\obj\Debug\simple_chat_server.csprojAssemblyReference.cache
+E:\Teste\New folder\simple-chat-server\simple-chat-server\obj\Debug\simple_chat_server.csproj.CoreCompileInputs.cache
+E:\Teste\New folder\simple-chat-server\simple-chat-server\obj\Debug\simple_chat_server.csproj.CopyComplete
+E:\Teste\New folder\simple-chat-server\simple-chat-server\obj\Debug\simple-chat-server.exe
+E:\Teste\New folder\simple-chat-server\simple-chat-server\obj\Debug\simple-chat-server.pdb
+C:\Users\Kevin\source\repos\qaaaaaaaaaaa\Teste\New folder\simple-chat-server\simple-chat-server\bin\Debug\simple-chat-server.exe.config
+C:\Users\Kevin\source\repos\qaaaaaaaaaaa\Teste\New folder\simple-chat-server\simple-chat-server\bin\Debug\simple-chat-server.exe
+C:\Users\Kevin\source\repos\qaaaaaaaaaaa\Teste\New folder\simple-chat-server\simple-chat-server\bin\Debug\simple-chat-server.pdb
+C:\Users\Kevin\source\repos\qaaaaaaaaaaa\Teste\New folder\simple-chat-server\simple-chat-server\bin\Debug\Util.exe
+C:\Users\Kevin\source\repos\qaaaaaaaaaaa\Teste\New folder\simple-chat-server\simple-chat-server\bin\Debug\Util.pdb
+C:\Users\Kevin\source\repos\qaaaaaaaaaaa\Teste\New folder\simple-chat-server\simple-chat-server\bin\Debug\Util.exe.config
+C:\Users\Kevin\source\repos\qaaaaaaaaaaa\Teste\New folder\simple-chat-server\simple-chat-server\obj\Debug\simple_chat_server.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\qaaaaaaaaaaa\Teste\New folder\simple-chat-server\simple-chat-server\obj\Debug\simple_chat_server.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\qaaaaaaaaaaa\Teste\New folder\simple-chat-server\simple-chat-server\obj\Debug\simple_chat_server.csproj.CopyComplete
+C:\Users\Kevin\source\repos\qaaaaaaaaaaa\Teste\New folder\simple-chat-server\simple-chat-server\obj\Debug\simple-chat-server.exe
+C:\Users\Kevin\source\repos\qaaaaaaaaaaa\Teste\New folder\simple-chat-server\simple-chat-server\obj\Debug\simple-chat-server.pdb
+C:\Users\Kevin\source\repos\Simple-Chat-Solution\Teste\New folder\simple-chat-server\simple-chat-server\bin\Debug\simple-chat-server.exe.config
+C:\Users\Kevin\source\repos\Simple-Chat-Solution\Teste\New folder\simple-chat-server\simple-chat-server\bin\Debug\simple-chat-server.exe
+C:\Users\Kevin\source\repos\Simple-Chat-Solution\Teste\New folder\simple-chat-server\simple-chat-server\bin\Debug\simple-chat-server.pdb
+C:\Users\Kevin\source\repos\Simple-Chat-Solution\Teste\New folder\simple-chat-server\simple-chat-server\bin\Debug\Util.exe
+C:\Users\Kevin\source\repos\Simple-Chat-Solution\Teste\New folder\simple-chat-server\simple-chat-server\bin\Debug\Util.pdb
+C:\Users\Kevin\source\repos\Simple-Chat-Solution\Teste\New folder\simple-chat-server\simple-chat-server\bin\Debug\Util.exe.config
+C:\Users\Kevin\source\repos\Simple-Chat-Solution\Teste\New folder\simple-chat-server\simple-chat-server\obj\Debug\simple_chat_server.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\Simple-Chat-Solution\Teste\New folder\simple-chat-server\simple-chat-server\obj\Debug\simple_chat_server.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Simple-Chat-Solution\Teste\New folder\simple-chat-server\simple-chat-server\obj\Debug\simple_chat_server.csproj.CopyComplete
+C:\Users\Kevin\source\repos\Simple-Chat-Solution\Teste\New folder\simple-chat-server\simple-chat-server\obj\Debug\simple-chat-server.exe
+C:\Users\Kevin\source\repos\Simple-Chat-Solution\Teste\New folder\simple-chat-server\simple-chat-server\obj\Debug\simple-chat-server.pdb

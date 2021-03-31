@@ -1,0 +1,7 @@
+C:\Users\Kevin\source\repos\simple-chat-server\simple-chat-server\bin\Debug\simple-chat-server.exe.config
+C:\Users\Kevin\source\repos\simple-chat-server\simple-chat-server\bin\Debug\simple-chat-server.exe
+C:\Users\Kevin\source\repos\simple-chat-server\simple-chat-server\bin\Debug\simple-chat-server.pdb
+C:\Users\Kevin\source\repos\simple-chat-server\simple-chat-server\obj\Debug\simple-chat-server.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\simple-chat-server\simple-chat-server\obj\Debug\simple-chat-server.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\simple-chat-server\simple-chat-server\obj\Debug\simple-chat-server.exe
+C:\Users\Kevin\source\repos\simple-chat-server\simple-chat-server\obj\Debug\simple-chat-server.pdb

@@ -1,0 +1,59 @@
+C:\Users\Kevin\source\repos\SimpleChatForms\SimpleChatForms\bin\Debug\netcoreapp3.1\simple_chat_client.exe
+C:\Users\Kevin\source\repos\SimpleChatForms\SimpleChatForms\bin\Debug\netcoreapp3.1\simple_chat_client.deps.json
+C:\Users\Kevin\source\repos\SimpleChatForms\SimpleChatForms\bin\Debug\netcoreapp3.1\simple_chat_client.runtimeconfig.json
+C:\Users\Kevin\source\repos\SimpleChatForms\SimpleChatForms\bin\Debug\netcoreapp3.1\simple_chat_client.runtimeconfig.dev.json
+C:\Users\Kevin\source\repos\SimpleChatForms\SimpleChatForms\bin\Debug\netcoreapp3.1\simple_chat_client.dll
+C:\Users\Kevin\source\repos\SimpleChatForms\SimpleChatForms\bin\Debug\netcoreapp3.1\simple_chat_client.pdb
+C:\Users\Kevin\source\repos\SimpleChatForms\SimpleChatForms\bin\Debug\netcoreapp3.1\Util.exe
+C:\Users\Kevin\source\repos\SimpleChatForms\SimpleChatForms\bin\Debug\netcoreapp3.1\Util.pdb
+C:\Users\Kevin\source\repos\SimpleChatForms\SimpleChatForms\bin\Debug\netcoreapp3.1\Util.exe.config
+C:\Users\Kevin\source\repos\SimpleChatForms\SimpleChatForms\obj\Debug\netcoreapp3.1\simple_chat_client.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\SimpleChatForms\SimpleChatForms\obj\Debug\netcoreapp3.1\simple_chat_client.Form1.resources
+C:\Users\Kevin\source\repos\SimpleChatForms\SimpleChatForms\obj\Debug\netcoreapp3.1\simple_chat_client.csproj.GenerateResource.cache
+C:\Users\Kevin\source\repos\SimpleChatForms\SimpleChatForms\obj\Debug\netcoreapp3.1\simple_chat_client.AssemblyInfoInputs.cache
+C:\Users\Kevin\source\repos\SimpleChatForms\SimpleChatForms\obj\Debug\netcoreapp3.1\simple_chat_client.AssemblyInfo.cs
+C:\Users\Kevin\source\repos\SimpleChatForms\SimpleChatForms\obj\Debug\netcoreapp3.1\simple_chat_client.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\SimpleChatForms\SimpleChatForms\obj\Debug\netcoreapp3.1\simple_chat_client.csproj.CopyComplete
+C:\Users\Kevin\source\repos\SimpleChatForms\SimpleChatForms\obj\Debug\netcoreapp3.1\simple_chat_client.dll
+C:\Users\Kevin\source\repos\SimpleChatForms\SimpleChatForms\obj\Debug\netcoreapp3.1\simple_chat_client.pdb
+C:\Users\Kevin\source\repos\SimpleChatForms\SimpleChatForms\obj\Debug\netcoreapp3.1\simple_chat_client.genruntimeconfig.cache
+H:\Teste\New folder\simple-chat-server\simple_chat_client\obj\Debug\netcoreapp3.1\simple_chat_client.dll
+H:\Teste\New folder\simple-chat-server\simple_chat_client\obj\Debug\netcoreapp3.1\simple_chat_client.pdb
+C:\Users\Kevin\source\repos\qaaaaaaaaaaa\Teste\New folder\simple-chat-server\simple_chat_client\bin\Debug\netcoreapp3.1\simple_chat_client.exe
+C:\Users\Kevin\source\repos\qaaaaaaaaaaa\Teste\New folder\simple-chat-server\simple_chat_client\bin\Debug\netcoreapp3.1\simple_chat_client.deps.json
+C:\Users\Kevin\source\repos\qaaaaaaaaaaa\Teste\New folder\simple-chat-server\simple_chat_client\bin\Debug\netcoreapp3.1\simple_chat_client.runtimeconfig.json
+C:\Users\Kevin\source\repos\qaaaaaaaaaaa\Teste\New folder\simple-chat-server\simple_chat_client\bin\Debug\netcoreapp3.1\simple_chat_client.runtimeconfig.dev.json
+C:\Users\Kevin\source\repos\qaaaaaaaaaaa\Teste\New folder\simple-chat-server\simple_chat_client\bin\Debug\netcoreapp3.1\simple_chat_client.dll
+C:\Users\Kevin\source\repos\qaaaaaaaaaaa\Teste\New folder\simple-chat-server\simple_chat_client\bin\Debug\netcoreapp3.1\simple_chat_client.pdb
+C:\Users\Kevin\source\repos\qaaaaaaaaaaa\Teste\New folder\simple-chat-server\simple_chat_client\bin\Debug\netcoreapp3.1\Util.exe
+C:\Users\Kevin\source\repos\qaaaaaaaaaaa\Teste\New folder\simple-chat-server\simple_chat_client\bin\Debug\netcoreapp3.1\Util.pdb
+C:\Users\Kevin\source\repos\qaaaaaaaaaaa\Teste\New folder\simple-chat-server\simple_chat_client\bin\Debug\netcoreapp3.1\Util.exe.config
+C:\Users\Kevin\source\repos\qaaaaaaaaaaa\Teste\New folder\simple-chat-server\simple_chat_client\obj\Debug\netcoreapp3.1\simple_chat_client.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\qaaaaaaaaaaa\Teste\New folder\simple-chat-server\simple_chat_client\obj\Debug\netcoreapp3.1\simple_chat_client.Form1.resources
+C:\Users\Kevin\source\repos\qaaaaaaaaaaa\Teste\New folder\simple-chat-server\simple_chat_client\obj\Debug\netcoreapp3.1\simple_chat_client.csproj.GenerateResource.cache
+C:\Users\Kevin\source\repos\qaaaaaaaaaaa\Teste\New folder\simple-chat-server\simple_chat_client\obj\Debug\netcoreapp3.1\simple_chat_client.AssemblyInfoInputs.cache
+C:\Users\Kevin\source\repos\qaaaaaaaaaaa\Teste\New folder\simple-chat-server\simple_chat_client\obj\Debug\netcoreapp3.1\simple_chat_client.AssemblyInfo.cs
+C:\Users\Kevin\source\repos\qaaaaaaaaaaa\Teste\New folder\simple-chat-server\simple_chat_client\obj\Debug\netcoreapp3.1\simple_chat_client.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\qaaaaaaaaaaa\Teste\New folder\simple-chat-server\simple_chat_client\obj\Debug\netcoreapp3.1\simple_chat_client.csproj.CopyComplete
+C:\Users\Kevin\source\repos\qaaaaaaaaaaa\Teste\New folder\simple-chat-server\simple_chat_client\obj\Debug\netcoreapp3.1\simple_chat_client.dll
+C:\Users\Kevin\source\repos\qaaaaaaaaaaa\Teste\New folder\simple-chat-server\simple_chat_client\obj\Debug\netcoreapp3.1\simple_chat_client.pdb
+C:\Users\Kevin\source\repos\qaaaaaaaaaaa\Teste\New folder\simple-chat-server\simple_chat_client\obj\Debug\netcoreapp3.1\simple_chat_client.genruntimeconfig.cache
+C:\Users\Kevin\source\repos\Simple-Chat-Solution\Teste\New folder\simple-chat-server\simple_chat_client\bin\Debug\netcoreapp3.1\simple_chat_client.exe
+C:\Users\Kevin\source\repos\Simple-Chat-Solution\Teste\New folder\simple-chat-server\simple_chat_client\bin\Debug\netcoreapp3.1\simple_chat_client.deps.json
+C:\Users\Kevin\source\repos\Simple-Chat-Solution\Teste\New folder\simple-chat-server\simple_chat_client\bin\Debug\netcoreapp3.1\simple_chat_client.runtimeconfig.json
+C:\Users\Kevin\source\repos\Simple-Chat-Solution\Teste\New folder\simple-chat-server\simple_chat_client\bin\Debug\netcoreapp3.1\simple_chat_client.runtimeconfig.dev.json
+C:\Users\Kevin\source\repos\Simple-Chat-Solution\Teste\New folder\simple-chat-server\simple_chat_client\bin\Debug\netcoreapp3.1\simple_chat_client.dll
+C:\Users\Kevin\source\repos\Simple-Chat-Solution\Teste\New folder\simple-chat-server\simple_chat_client\bin\Debug\netcoreapp3.1\simple_chat_client.pdb
+C:\Users\Kevin\source\repos\Simple-Chat-Solution\Teste\New folder\simple-chat-server\simple_chat_client\bin\Debug\netcoreapp3.1\Util.exe
+C:\Users\Kevin\source\repos\Simple-Chat-Solution\Teste\New folder\simple-chat-server\simple_chat_client\bin\Debug\netcoreapp3.1\Util.pdb
+C:\Users\Kevin\source\repos\Simple-Chat-Solution\Teste\New folder\simple-chat-server\simple_chat_client\bin\Debug\netcoreapp3.1\Util.exe.config
+C:\Users\Kevin\source\repos\Simple-Chat-Solution\Teste\New folder\simple-chat-server\simple_chat_client\obj\Debug\netcoreapp3.1\simple_chat_client.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\Simple-Chat-Solution\Teste\New folder\simple-chat-server\simple_chat_client\obj\Debug\netcoreapp3.1\simple_chat_client.Form1.resources
+C:\Users\Kevin\source\repos\Simple-Chat-Solution\Teste\New folder\simple-chat-server\simple_chat_client\obj\Debug\netcoreapp3.1\simple_chat_client.csproj.GenerateResource.cache
+C:\Users\Kevin\source\repos\Simple-Chat-Solution\Teste\New folder\simple-chat-server\simple_chat_client\obj\Debug\netcoreapp3.1\simple_chat_client.AssemblyInfoInputs.cache
+C:\Users\Kevin\source\repos\Simple-Chat-Solution\Teste\New folder\simple-chat-server\simple_chat_client\obj\Debug\netcoreapp3.1\simple_chat_client.AssemblyInfo.cs
+C:\Users\Kevin\source\repos\Simple-Chat-Solution\Teste\New folder\simple-chat-server\simple_chat_client\obj\Debug\netcoreapp3.1\simple_chat_client.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Simple-Chat-Solution\Teste\New folder\simple-chat-server\simple_chat_client\obj\Debug\netcoreapp3.1\simple_chat_client.csproj.CopyComplete
+C:\Users\Kevin\source\repos\Simple-Chat-Solution\Teste\New folder\simple-chat-server\simple_chat_client\obj\Debug\netcoreapp3.1\simple_chat_client.dll
+C:\Users\Kevin\source\repos\Simple-Chat-Solution\Teste\New folder\simple-chat-server\simple_chat_client\obj\Debug\netcoreapp3.1\simple_chat_client.pdb
+C:\Users\Kevin\source\repos\Simple-Chat-Solution\Teste\New folder\simple-chat-server\simple_chat_client\obj\Debug\netcoreapp3.1\simple_chat_client.genruntimeconfig.cache
