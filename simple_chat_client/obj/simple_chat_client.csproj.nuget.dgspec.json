@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kevin\\source\\repos\\Simple-Chat-Solution\\Teste\\New folder\\simple-chat-server\\simple_chat_client\\simple_chat_client.csproj": {}
+    "E:\\Repositorios GIT\\Simple-Chat-Solution\\simple_chat_client\\simple_chat_client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kevin\\source\\repos\\Simple-Chat-Solution\\Teste\\New folder\\simple-chat-server\\simple_chat_client\\simple_chat_client.csproj": {
+    "E:\\Repositorios GIT\\Simple-Chat-Solution\\simple_chat_client\\simple_chat_client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kevin\\source\\repos\\Simple-Chat-Solution\\Teste\\New folder\\simple-chat-server\\simple_chat_client\\simple_chat_client.csproj",
+        "projectUniqueName": "E:\\Repositorios GIT\\Simple-Chat-Solution\\simple_chat_client\\simple_chat_client.csproj",
         "projectName": "simple_chat_client",
-        "projectPath": "C:\\Users\\Kevin\\source\\repos\\Simple-Chat-Solution\\Teste\\New folder\\simple-chat-server\\simple_chat_client\\simple_chat_client.csproj",
+        "projectPath": "E:\\Repositorios GIT\\Simple-Chat-Solution\\simple_chat_client\\simple_chat_client.csproj",
         "packagesPath": "C:\\Users\\Kevin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kevin\\source\\repos\\Simple-Chat-Solution\\Teste\\New folder\\simple-chat-server\\simple_chat_client\\obj\\",
+        "outputPath": "E:\\Repositorios GIT\\Simple-Chat-Solution\\simple_chat_client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Kevin\\source\\repos\\Simple-Chat-Solution\\Teste\\New folder\\simple-chat-server\\Util\\Util.csproj": {
-                "projectPath": "C:\\Users\\Kevin\\source\\repos\\Simple-Chat-Solution\\Teste\\New folder\\simple-chat-server\\Util\\Util.csproj"
+              "E:\\Repositorios GIT\\Simple-Chat-Solution\\Util\\Util.csproj": {
+                "projectPath": "E:\\Repositorios GIT\\Simple-Chat-Solution\\Util\\Util.csproj"
               }
             }
           }
@@ -65,11 +65,11 @@
         }
       }
     },
-    "C:\\Users\\Kevin\\source\\repos\\Simple-Chat-Solution\\Teste\\New folder\\simple-chat-server\\Util\\Util.csproj": {
+    "E:\\Repositorios GIT\\Simple-Chat-Solution\\Util\\Util.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kevin\\source\\repos\\Simple-Chat-Solution\\Teste\\New folder\\simple-chat-server\\Util\\Util.csproj",
+        "projectUniqueName": "E:\\Repositorios GIT\\Simple-Chat-Solution\\Util\\Util.csproj",
         "projectName": "Util",
-        "projectPath": "C:\\Users\\Kevin\\source\\repos\\Simple-Chat-Solution\\Teste\\New folder\\simple-chat-server\\Util\\Util.csproj"
+        "projectPath": "E:\\Repositorios GIT\\Simple-Chat-Solution\\Util\\Util.csproj"
       },
       "frameworks": {
         "net472": {}
