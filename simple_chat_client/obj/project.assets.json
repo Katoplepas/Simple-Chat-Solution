@@ -1,12 +1,28 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Util/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Util.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Util.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Util/1.0.0": {
+      "type": "project",
+      "path": "../Util/Util.csproj",
+      "msbuildProject": "../Util/Util.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "E:\\Repositorios GIT\\simple-chat-server\\Util\\Util.csproj"
+      "Util >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -36,8 +52,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\Repositorios GIT\\simple-chat-server\\Util\\Util.csproj": {
-              "projectPath": "E:\\Repositorios GIT\\simple-chat-server\\Util\\Util.csproj"
+            "E:\\Repositorios GIT\\Simple-Chat-Solution\\Util\\Util.csproj": {
+              "projectPath": "E:\\Repositorios GIT\\Simple-Chat-Solution\\Util\\Util.csproj"
             }
           }
         }
@@ -72,16 +88,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'E:\\Repositorios GIT\\simple-chat-server\\Util\\Util.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "E:\\Repositorios GIT\\simple-chat-server\\Util\\Util.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  }
 }

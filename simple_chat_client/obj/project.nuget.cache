@@ -1,18 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k2ipk/dFeZ7nkswmKCmiY2NKXvKk26akIZOXhQAJq8bX/GzRHgwv6/moG3Cdp81lBQD2qELhmOFZH6YpT2pq+g==",
-  "success": false,
+  "dgSpecHash": "dpSHSfGoUPjMLQLBGs4MNH6qoRIE5a1xkuktM3/9biykcCqnD4pdK3hRcAIR+011NVAFWMsjomEFLY9VbMxU4A==",
+  "success": true,
   "projectFilePath": "E:\\Repositorios GIT\\Simple-Chat-Solution\\simple_chat_client\\simple_chat_client.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'E:\\Repositorios GIT\\simple-chat-server\\Util\\Util.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "E:\\Repositorios GIT\\simple-chat-server\\Util\\Util.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  "logs": []
 }
